@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+    h1 { color: #222; }
+    p { color: #555; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for My App</h1>
+  <p>This privacy policy explains how we handle your data when you use our app.</p>
+
+  <h2>Data We Collect</h2>
+  <p>We may collect information such as name, email address, usage details, etc.</p>
+
+  <h2>How We Use Data</h2>
+  <p>We use your information to improve app performance and for support purposes.</p>
+
+  <h2>Data Security</h2>
+  <p>Your data is stored securely and not shared with anyone without your consent.</p>
+
+  <h2>Policy Updates</h2>
+  <p>We may update this policy occasionally. Any changes will be reflected here.</p>
+</body>
+</html>
